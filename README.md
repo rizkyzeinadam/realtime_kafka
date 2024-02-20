@@ -1,1 +1,1 @@
-![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
+![ezcv logo](https://github.com/rizkyzeinadam/realtime_kafka/blob/main/1707291589465.jpg)
